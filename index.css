@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:ital,wght@1,300&family=Nunito:wght@200;300;400;700&family=Public+Sans:ital,wght@0,900;1,100&display=swap');
+:root {
+  --orange: #ffa500;  
+}
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+*::selection {
+    background: var(--orange);
+    color: white;
+}
